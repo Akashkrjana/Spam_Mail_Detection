@@ -1,4 +1,4 @@
-# 📧 Spam Mail Prediction Tool
+# 📧 Spam Mail Detection Tool
 
 A complete Machine Learning project that detects whether a message/email is **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) techniques and supervised learning algorithms.
 
